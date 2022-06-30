@@ -1,4 +1,10 @@
 .box {
-    display: flex;
-    padding: 10px;
+  display: flex;
+  padding: 10px 100px;
+  margin: 0 100px;
+  
+  background-color: #FDE9CB;
+
+  border: 3mm ridge #B38034;
+  border-radius: 10px;
 }
